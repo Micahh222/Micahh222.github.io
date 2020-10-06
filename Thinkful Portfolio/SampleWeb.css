@@ -1,0 +1,39 @@
+img {
+	display:block;
+	text-align: center;
+}
+
+html {
+	background: black;
+	font-family: 'Times New Roman';
+}
+
+p {
+	font-size: 20px;
+	color:white;
+	margin: 10px;
+	padding: 10px;
+}
+
+h1, h2, h3 {
+	color:red;
+}
+
+a {
+	padding-right:30px;
+	text-decoration-style:none;
+}
+
+a:hover {
+	color:red;
+}
+
+a:visited {
+	color:red;
+}
+
+li {
+	color:white;
+	font-size: 20px;
+}
+
